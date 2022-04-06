@@ -13,7 +13,7 @@ clear
 echo -e ""
 echo -e "======================================="
 echo -e "${red}===[ Permission Denied...!!! ]===${NC}";
-echo -e "Contact WA https//ws.me/011-14144373"
+echo -e "Contact WA https//ws.me/juangustavvo"
 echo -e "For Registration IP VPS"
 echo -e "======================================="
 echo -e ""
